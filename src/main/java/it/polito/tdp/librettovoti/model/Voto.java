@@ -36,7 +36,7 @@ public class Voto {
 		this.data = data;
 	}
 	public String toString() {
-		return "Esame" + nome + " superato con " + voto + " in data " + data ;
+		return "Esame " + nome + " superato con " + voto + " in data " + data ;
 	}
 	
 }
